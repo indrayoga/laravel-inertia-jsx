@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Satupeta
+## About Project
 
-Satupeta merupakan sarana komunikasi serta visualisasi peta dan data dari Pemerintah Kota Balikpapan, baik untuk Pemerintah Kota Balikpapan ataupun untuk masyarakat.
+Project ini merupakan implementasi dari Laravel dengan Inertia.js dan React JSX.
 
 ## Installation
 
