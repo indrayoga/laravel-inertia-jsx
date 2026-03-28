@@ -4,7 +4,7 @@ This is a step-by-step guide to install Laravel without a starter kit, then add 
 
 ## Requirements
 
-- PHP 8.2+ with required PHP extensions
+- PHP 8.3+ with required PHP extensions
 - Composer
 - Node.js 18+ and npm
 - SQLite (default) or another supported database
